@@ -19,5 +19,3 @@ My work spans both **AI model development** and the broader healthcare environme
 ### Current Focus
 
 **Medical AI → Medical Imaging → Deep Learning → Computer Vision**
-
-I am also exploring **AI Automation, LLMs, and AI Agents** as complementary technologies for building practical healthcare systems.
